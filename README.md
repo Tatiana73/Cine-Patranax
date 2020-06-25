@@ -1,6 +1,6 @@
 # Proyecto final - CINE PATRAÑAX
 
-## Descripción del Proyecto
+## Descripción del Proyecto 
 #### Requerimientos
 Una web-App responsive con la temática "consumo de películas" en la cual creamos una solución utilizando el API de Open Movie Database.
 
@@ -17,26 +17,11 @@ Para ingresar tienes que registrarte colocando tu nombre, correo y contraseña l
 
 ## Guía de Estilos
 
-### Project setup
-Colores Utilizados
--#ffffff (Background, Botón Trailer)
--#ffd100 (Login, Botón Ver Más)
--#737373 (Textos descriptivos)
--#000000 (Navbar, Footer , Botón Ingresar)
+![Enlace de Maquetación]
+(https://cinepatranas.myportfolio.com/)
 
-### Tipografía
--Raleway Extra Bold
--Raleway SemyBold
--Raleway Regular
+![Guía de Estilo](https://pro2-bar-s3-cdn-cf2.myportfolio.com/a9084e14-12cf-4bd4-b5ff-59df677c4fe8/d9cf14fc-ba7d-4a76-bf0f-e8cede5976a8_rw_1920.png?h=672c3ed0e8bfdb69441f69641c48105a)
 
-### Tamaños de Fuente
--70 px - XXX - LARGE
--50 px - XX - LARGE
--43 px - X - LARGE
--40 px - LARGE
--28 px - MEDIUM
--23 px - MEDIUM
--17 px - SMALL
 
 ## Project setup
 ```
@@ -45,30 +30,27 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm serve
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
+npm build
 ```
 
 ### Lints and fixes files
 ```
-npm run lint
+npm lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
 ### Documento Drive
-Prueba Final - Creación de página Web
+Prueba Final - Creación de página Web 
 
 Implementando:
 -vue
 -vuex
 -vue Router
--SASS
+-SASS 
 -Bootstrap
 -Firebase
 
@@ -79,5 +61,7 @@ Configuración
 ## Rutas de Acceso
 Los usuarios podrán acceder a través de:
 - Home de Página (Información principal de página)
-- Login de acceso (Ingreso de Clientes a través Del Login)
+- Login de acceso (Ingreso de clientes a través del Login)
 - Favourite Movie (Marcado de favoritos)
+
+
